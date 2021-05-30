@@ -8,9 +8,7 @@ The green oint shown the end point of the route. </br>
 A 40 X 40 grid is used for it. The grid is filled with random sequence of 0 and 1 to show roads and blockages.</br>
 Simply execute the program.</br>
 
-<pre><code>
-python3 code.py
-</code></pre>
+<pre><code> python3 code.py </code></pre>
 
 The program will ask for x-axis of start point.</br>
 then The program will ask for y-axis of start point.</br>
